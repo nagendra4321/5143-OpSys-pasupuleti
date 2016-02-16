@@ -1,19 +1,19 @@
 # Chapter 2 Review Questions
-Name: Your Name Here
+Name: Nagendra Babu Psupuleti
 Course: 5143 Operating Systems
-Date: DD MON YY (e.g. 08 Feb 2016)
+Date: 16 FEB 2016
 
-## Question 1
-
-Your answer to question one here...
+## 1.What are three objectives of an OS design?
 
 
-## Question 2
 
-Your answer to question 2 here ...
+
+## 2.What is the kernel of an OS?
+
+
 
 ...
 
-## Question N
+## 3.What is multiprogramming?
 
-Your answer to question N here ...
+
