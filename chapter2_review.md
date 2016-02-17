@@ -13,22 +13,16 @@ A.  Kernel contains the core OS services, in which privileged instructions can b
 ## 3. What is multiprogramming?
 A. Multiprogramming is also known as multitasking. In this approach computer memory is expanded to hold many programs and executing all of them switching among all of them.
 ## 4. What is a process?
-A. A process is a fundamental structure of operating system. A process can be defined as
--A program in execution
--An instance of a program running on a computer
- 	-The entity that can be assigned to and executed on a processor
- 	-A unit of activity characterized by a single sequential thread of execution, a
-current state, and an associated set of system resources
+A. A process is a fundamental structure of operating system. A process can be defined as, A program in execution, An instance of a program running on a computer, The entity that can be assigned to and executed on a processor,A unit of activity characterized by a single sequential thread of execution, a current state, and an associated set of system resources
 ## 5. How is the execution context of a process used by the OS?
 A.  Execution context is also known as process state is the internal data which Is used by the OS to supervise and control the process. This information is separated from the process which is of use to the OS Such as registers, program counter, priority of process to check whether the process is waiting for a particular I/O event or process completed or interrupted etc
 ## 6. List and briefly explain five storage management responsibilities of a typical OS.
 A.  The five principle storage management responsibilities are
-  1.Process isolation: The OS must prevent independent processes from interfering.
-  2.Automatic allocation and management: Programs should be dynamically allocated across the
-Memory hierarchy as required and should manage the memory
-  3. Support of modular programming: Programmers should be able to define program in modules, and to create, destroy and add modules dynamically
-  4. Protection and access control: restricting the access to memory by access control using memory hierarchy and protecting the memory.
-  5.Long-term storage: Many application programs require storing information for extended periods of time after the computer has been powered down.
+1.Process isolation: The OS must prevent independent processes from interfering.
+2.Automatic allocation and management: Programs should be dynamically allocated across the Memory hierarchy as required and should manage the memory 
+3..Support of modular programming: Programmers should be able to define program in modules, and to create, destroy and add modules dynamically 
+4.Protection and access control: restricting the access to memory by access control using memory hierarchy and protecting the memory.
+5.Long-term storage: Many application programs require storing information for extended periods of time after the computer has been powered down.
 
 ## 7. Explain the distinction between a real address and a virtual address.
 A. Real address is the physical address of a page in main memory, virtual address consist of a page number and offset for dynamical mapping related to physical address
