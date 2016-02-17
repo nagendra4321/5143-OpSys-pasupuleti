@@ -29,6 +29,7 @@ Memory hierarchy as required and should manage the memory
   3. Support of modular programming: Programmers should be able to define program in modules, and to create, destroy and add modules dynamically
   4. Protection and access control: restricting the access to memory by access control using memory hierarchy and protecting the memory.
   5.Long-term storage: Many application programs require storing information for extended periods of time after the computer has been powered down.
+
 ## 7. Explain the distinction between a real address and a virtual address.
 A. Real address is the physical address of a page in main memory, virtual address consist of a page number and offset for dynamical mapping related to physical address
 ## 8. Describe the round-robin scheduling technique.
